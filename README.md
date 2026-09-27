@@ -1,2 +1,0 @@
-# Sherlock
-AI Forensic Linguist
